@@ -1,4 +1,4 @@
-# Customers Behaviour in the Mall : Cluster Analysis 
+# Consumer Behaviour in the Mall: Cluster Analysis 
 - Comparing Liverpool's last 10 years of performances with transfer spending each season --> there is evidence to suggest more spending leads to fewer matches been lost but there is no concrete evidence to suggest more spending leads to winning more matches.
 - Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
 - Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
@@ -16,3 +16,7 @@
 
 
 
+# Cluster Analysis
+![](/image/Kmean.PNG)
+
+In the plot above the elbow is at k=3. indicating the optimal k for this dataset is 3.

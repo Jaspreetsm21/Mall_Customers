@@ -1,8 +1,6 @@
 # Consumer Behaviour in the Mall: Cluster Analysis 
-- Comparing Liverpool's last 10 years of performances with transfer spending each season --> there is evidence to suggest more spending leads to fewer matches been lost but there is no concrete evidence to suggest more spending leads to winning more matches.
-- Built a dashboard for Liverpool's performance in the last decade on Streamlit platform which is free and easy to share with stakeholders.
-- Optimized K-Means and Hierarchical clustering methods to reach the conclusion of the analysis.
-- Built a client facing API and Heroku to view the dashboard on [Streamlit](https://liverpooldashboard.herokuapp.com/).
+- I wanted to understand the customers who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+- Optimized K-Means clustering method to reach the conclusion of the analysis.
 
 # Code and Resources Used
 

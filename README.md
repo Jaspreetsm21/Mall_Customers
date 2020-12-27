@@ -13,15 +13,15 @@
 **Data Resource**: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 # [EDA](https://github.com/Jaspreetsm21/Mall_Customers/blob/main/EDA.ipynb)
-![](/image/EDA1.PNG)
-
-![](/image/EDA2.PNG)
+![](/image/EDA1.PNG)  ![](/image/EDA2.PNG)
 
 ![](/image/EDA4.PNG)
 
 ![](/image/EDA5.PNG)
 
 ![](/image/EDA6.PNG)
+
+### Insigth
 
 # Cluster Analysis
 ![](/image/Kmean.PNG)

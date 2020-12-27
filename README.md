@@ -21,6 +21,15 @@
 
 ### Insigth
 
+- On Avg Males are earning more money annually than Females by $2.5K.
+
+- Gender has no major impact on Spending Score
+
+- There is a Negative correlation between Age and Spending Score.
+
+- There is no Correlation between Age and Annual Income.
+
+
 # Cluster Analysis
 ![](/image/Kmean.PNG)
 
